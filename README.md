@@ -1,3 +1,3 @@
 # Inventory Management App
 
-This is an inventory management application made using Flutter.
+This is an inventory management application made with Flutter.
